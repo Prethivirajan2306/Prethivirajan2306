@@ -78,7 +78,7 @@ A collection of Java programming exercises and problem-solving implementations.
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/Prethivirajan2306
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/prethivirajan-l-9aa404448/
 
 ---
 
